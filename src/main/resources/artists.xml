@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<artists>
+    <artist id="10">
+        <firstname>Adam</firstname>
+        <lastname>Darski</lastname>
+        <pseudonym>Nergal</pseudonym>
+        <profession>wokalista</profession>
+        <alive>true</alive>
+    </artist>
+    <artist id="6">
+        <firstname>Dorota</firstname>
+        <lastname>Rabczewska</lastname>
+        <pseudonym>Doda</pseudonym>
+        <profession>wokalistka</profession>
+        <alive>true</alive>
+    </artist>
+    <artist id="1">
+        <firstname>Grzegorz</firstname>
+        <lastname>Ciechowski</lastname>
+        <pseudonym>Obywatel G.C</pseudonym>
+        <profession>lead singer</profession>
+        <alive>false</alive>
+    </artist>
+</artists>
